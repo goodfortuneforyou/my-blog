@@ -5,6 +5,7 @@ type Props = {
   posts: Post[];
 };
 
+
 export default function AllPostsPage({ posts }: Props) {
   return (
     <>
